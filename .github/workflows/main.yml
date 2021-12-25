@@ -31,7 +31,7 @@ jobs:
       
       - name: install dependencies
         run: |
-              make install
+              make Install
       
       - name: Lint with pylint
         run: |
