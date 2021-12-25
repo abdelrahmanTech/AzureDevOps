@@ -41,8 +41,5 @@ jobs:
         run: |
               make test
 
-      # Runs a single command using the runners shell
-      - name: Run make command
-        run: make hello
-
+   
      
